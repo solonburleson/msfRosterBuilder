@@ -1,0 +1,1166 @@
+[
+    {
+        "ItemId": "Blue_Armor_Mat_Bit",
+        "Qty": 2702
+    },
+    {
+        "ItemId": "Blue_Basic_Cat",
+        "Qty": 1234
+    },
+    {
+        "ItemId": "Blue_Bio_Mat_b2",
+        "Qty": 2145
+    },
+    {
+        "ItemId": "Blue_Bio_Mat_Bit",
+        "Qty": 898
+    },
+    {
+        "ItemId": "Blue_Bio_Mat_c1",
+        "Qty": 1180
+    },
+    {
+        "ItemId": "Blue_Bio_Mat_c3",
+        "Qty": 926
+    },
+    {
+        "ItemId": "Blue_Damage_Mat_Bit",
+        "Qty": 2012
+    },
+    {
+        "ItemId": "Blue_Focus_Mat_Bit",
+        "Qty": 1949
+    },
+    {
+        "ItemId": "Blue_Health_Mat_Bit",
+        "Qty": 3430
+    },
+    {
+        "ItemId": "Blue_Mutant_Mat_b2",
+        "Qty": 1269
+    },
+    {
+        "ItemId": "Blue_Mutant_Mat_Bit",
+        "Qty": 167
+    },
+    {
+        "ItemId": "Blue_Mutant_Mat_c1",
+        "Qty": 691
+    },
+    {
+        "ItemId": "Blue_Mutant_Mat_c3",
+        "Qty": 587
+    },
+    {
+        "ItemId": "Blue_Mystic_Mat_b2",
+        "Qty": 1850
+    },
+    {
+        "ItemId": "Blue_Mystic_Mat_Bit",
+        "Qty": 1138
+    },
+    {
+        "ItemId": "Blue_Mystic_Mat_c1",
+        "Qty": 940
+    },
+    {
+        "ItemId": "Blue_Mystic_Mat_c3",
+        "Qty": 1618
+    },
+    {
+        "ItemId": "Blue_Resist_Mat_Bit",
+        "Qty": 2564
+    },
+    {
+        "ItemId": "Blue_Skill_Mat_b2",
+        "Qty": 1499
+    },
+    {
+        "ItemId": "Blue_Skill_Mat_Bit",
+        "Qty": 509
+    },
+    {
+        "ItemId": "Blue_Skill_Mat_c1",
+        "Qty": 262
+    },
+    {
+        "ItemId": "Blue_Skill_Mat_c3",
+        "Qty": 1448
+    },
+    {
+        "ItemId": "Blue_Tech_Mat_b2",
+        "Qty": 1423
+    },
+    {
+        "ItemId": "Blue_Tech_Mat_Bit",
+        "Qty": 534
+    },
+    {
+        "ItemId": "Blue_Tech_Mat_c1",
+        "Qty": 1509
+    },
+    {
+        "ItemId": "Blue_Tech_Mat_c3",
+        "Qty": 739
+    },
+    {
+        "ItemId": "Green_Armor_Mat",
+        "Qty": 26
+    },
+    {
+        "ItemId": "Green_Bio_Mat",
+        "Qty": 148
+    },
+    {
+        "ItemId": "Green_Bio_Mat_b2",
+        "Qty": 500
+    },
+    {
+        "ItemId": "Green_Damage_Mat",
+        "Qty": 759
+    },
+    {
+        "ItemId": "Green_Focus_Mat",
+        "Qty": 351
+    },
+    {
+        "ItemId": "Green_Health_Mat",
+        "Qty": 25
+    },
+    {
+        "ItemId": "Green_Mutant_Mat",
+        "Qty": 212
+    },
+    {
+        "ItemId": "Green_Mutant_Mat_b2",
+        "Qty": 314
+    },
+    {
+        "ItemId": "Green_Mystic_Mat",
+        "Qty": 143
+    },
+    {
+        "ItemId": "Green_Mystic_Mat_b2",
+        "Qty": 1002
+    },
+    {
+        "ItemId": "Green_Resist_Mat",
+        "Qty": 131
+    },
+    {
+        "ItemId": "Green_Skill_Mat",
+        "Qty": 116
+    },
+    {
+        "ItemId": "Green_Skill_Mat_b2",
+        "Qty": 683
+    },
+    {
+        "ItemId": "Green_Tech_Mat",
+        "Qty": 886
+    },
+    {
+        "ItemId": "Green_Tech_Mat_b2",
+        "Qty": 533
+    },
+    {
+        "ItemId": "Orange_Armor_Mat_Bit",
+        "Qty": 9390
+    },
+    {
+        "ItemId": "Orange_Basic_Cat_Bit",
+        "Qty": 8569
+    },
+    {
+        "ItemId": "Orange_Bio_Mat_Bit",
+        "Qty": 3005
+    },
+    {
+        "ItemId": "Orange_Bio_Mat_c1",
+        "Qty": 283
+    },
+    {
+        "ItemId": "Orange_Bio_Mat_c2",
+        "Qty": 1717
+    },
+    {
+        "ItemId": "Orange_Bio_Mat_c3",
+        "Qty": 2108
+    },
+    {
+        "ItemId": "Orange_Bio_Mat_c5",
+        "Qty": 190
+    },
+    {
+        "ItemId": "Orange_Bio_Mat_c6",
+        "Qty": 415
+    },
+    {
+        "ItemId": "Orange_Bio_Mat_c8",
+        "Qty": 269
+    },
+    {
+        "ItemId": "Orange_Bio_Mat_c9",
+        "Qty": 97
+    },
+    {
+        "ItemId": "Orange_Damage_Mat_Bit",
+        "Qty": 1202
+    },
+    {
+        "ItemId": "Orange_energy1",
+        "Qty": 126
+    },
+    {
+        "ItemId": "Orange_energy2",
+        "Qty": 189
+    },
+    {
+        "ItemId": "Orange_energy3",
+        "Qty": 252
+    },
+    {
+        "ItemId": "Orange_energy4",
+        "Qty": 271
+    },
+    {
+        "ItemId": "Orange_energy5",
+        "Qty": 146
+    },
+    {
+        "ItemId": "Orange_equipment1",
+        "Qty": 106
+    },
+    {
+        "ItemId": "Orange_equipment2",
+        "Qty": 337
+    },
+    {
+        "ItemId": "Orange_equipment3",
+        "Qty": 331
+    },
+    {
+        "ItemId": "Orange_equipment4",
+        "Qty": 242
+    },
+    {
+        "ItemId": "Orange_equipment5",
+        "Qty": 164
+    },
+    {
+        "ItemId": "Orange_equipment6",
+        "Qty": 253
+    },
+    {
+        "ItemId": "Orange_Focus_Mat_Bit",
+        "Qty": 2040
+    },
+    {
+        "ItemId": "Orange_Health_Mat_Bit",
+        "Qty": 1776
+    },
+    {
+        "ItemId": "Orange_magic1",
+        "Qty": 88
+    },
+    {
+        "ItemId": "Orange_magic2",
+        "Qty": 161
+    },
+    {
+        "ItemId": "Orange_magic3",
+        "Qty": 254
+    },
+    {
+        "ItemId": "Orange_magic4",
+        "Qty": 149
+    },
+    {
+        "ItemId": "Orange_metal1",
+        "Qty": 102
+    },
+    {
+        "ItemId": "Orange_metal2",
+        "Qty": 133
+    },
+    {
+        "ItemId": "Orange_metal3",
+        "Qty": 180
+    },
+    {
+        "ItemId": "Orange_metal4",
+        "Qty": 273
+    },
+    {
+        "ItemId": "Orange_metal5",
+        "Qty": 244
+    },
+    {
+        "ItemId": "Orange_metal6",
+        "Qty": 226
+    },
+    {
+        "ItemId": "Orange_metal7",
+        "Qty": 214
+    },
+    {
+        "ItemId": "Orange_metal8",
+        "Qty": 41
+    },
+    {
+        "ItemId": "Orange_Mutant_Mat_Bit",
+        "Qty": 3259
+    },
+    {
+        "ItemId": "Orange_Mutant_Mat_c1",
+        "Qty": 418
+    },
+    {
+        "ItemId": "Orange_Mutant_Mat_c2",
+        "Qty": 1888
+    },
+    {
+        "ItemId": "Orange_Mutant_Mat_c3",
+        "Qty": 1725
+    },
+    {
+        "ItemId": "Orange_Mutant_Mat_c5",
+        "Qty": 435
+    },
+    {
+        "ItemId": "Orange_Mutant_Mat_c6",
+        "Qty": 438
+    },
+    {
+        "ItemId": "Orange_Mutant_Mat_c8",
+        "Qty": 400
+    },
+    {
+        "ItemId": "Orange_Mutant_Mat_c9",
+        "Qty": 436
+    },
+    {
+        "ItemId": "Orange_Mystic_Mat_Bit",
+        "Qty": 750
+    },
+    {
+        "ItemId": "Orange_Mystic_Mat_c1",
+        "Qty": 334
+    },
+    {
+        "ItemId": "Orange_Mystic_Mat_c2",
+        "Qty": 1043
+    },
+    {
+        "ItemId": "Orange_Mystic_Mat_c3",
+        "Qty": 1408
+    },
+    {
+        "ItemId": "Orange_Mystic_Mat_c5",
+        "Qty": 200
+    },
+    {
+        "ItemId": "Orange_Mystic_Mat_c6",
+        "Qty": 178
+    },
+    {
+        "ItemId": "Orange_Mystic_Mat_c8",
+        "Qty": 199
+    },
+    {
+        "ItemId": "Orange_Mystic_Mat_c9",
+        "Qty": 178
+    },
+    {
+        "ItemId": "Orange_Resist_Mat_Bit",
+        "Qty": 4983
+    },
+    {
+        "ItemId": "Orange_serum1",
+        "Qty": 334
+    },
+    {
+        "ItemId": "Orange_serum2",
+        "Qty": 260
+    },
+    {
+        "ItemId": "Orange_serum3",
+        "Qty": 124
+    },
+    {
+        "ItemId": "Orange_serum4",
+        "Qty": 300
+    },
+    {
+        "ItemId": "Orange_Skill_Mat_Bit",
+        "Qty": 4201
+    },
+    {
+        "ItemId": "Orange_Skill_Mat_c1",
+        "Qty": 363
+    },
+    {
+        "ItemId": "Orange_Skill_Mat_c2",
+        "Qty": 2683
+    },
+    {
+        "ItemId": "Orange_Skill_Mat_c3",
+        "Qty": 2874
+    },
+    {
+        "ItemId": "Orange_Skill_Mat_c5",
+        "Qty": 376
+    },
+    {
+        "ItemId": "Orange_Skill_Mat_c6",
+        "Qty": 365
+    },
+    {
+        "ItemId": "Orange_Skill_Mat_c8",
+        "Qty": 370
+    },
+    {
+        "ItemId": "Orange_Skill_Mat_c9",
+        "Qty": 406
+    },
+    {
+        "ItemId": "Orange_Tech_Mat_Bit",
+        "Qty": 3618
+    },
+    {
+        "ItemId": "Orange_Tech_Mat_c1",
+        "Qty": 398
+    },
+    {
+        "ItemId": "Orange_Tech_Mat_c2",
+        "Qty": 2908
+    },
+    {
+        "ItemId": "Orange_Tech_Mat_c3",
+        "Qty": 2788
+    },
+    {
+        "ItemId": "Orange_Tech_Mat_c5",
+        "Qty": 437
+    },
+    {
+        "ItemId": "Orange_Tech_Mat_c6",
+        "Qty": 417
+    },
+    {
+        "ItemId": "Orange_Tech_Mat_c8",
+        "Qty": 468
+    },
+    {
+        "ItemId": "Orange_Tech_Mat_c9",
+        "Qty": 345
+    },
+    {
+        "ItemId": "Purple_Armor_Mat_Bit",
+        "Qty": 4394
+    },
+    {
+        "ItemId": "Purple_Basic_Cat",
+        "Qty": 0
+    },
+    {
+        "ItemId": "Purple_Basic_Cat_Bit",
+        "Qty": 9920
+    },
+    {
+        "ItemId": "Purple_Bio_Mat_b2",
+        "Qty": 1356
+    },
+    {
+        "ItemId": "Purple_Bio_Mat_Bit",
+        "Qty": 952
+    },
+    {
+        "ItemId": "Purple_Bio_Mat_c1",
+        "Qty": 877
+    },
+    {
+        "ItemId": "Purple_Bio_Mat_c2",
+        "Qty": 1607
+    },
+    {
+        "ItemId": "Purple_Bio_Mat_c3",
+        "Qty": 537
+    },
+    {
+        "ItemId": "Purple_Damage_Mat_Bit",
+        "Qty": 4396
+    },
+    {
+        "ItemId": "Purple_energy1",
+        "Qty": 440
+    },
+    {
+        "ItemId": "Purple_energy2",
+        "Qty": 384
+    },
+    {
+        "ItemId": "Purple_energy3",
+        "Qty": 486
+    },
+    {
+        "ItemId": "Purple_energy4",
+        "Qty": 376
+    },
+    {
+        "ItemId": "Purple_energy5",
+        "Qty": 356
+    },
+    {
+        "ItemId": "Purple_equipment1",
+        "Qty": 432
+    },
+    {
+        "ItemId": "Purple_equipment2",
+        "Qty": 420
+    },
+    {
+        "ItemId": "Purple_equipment3",
+        "Qty": 448
+    },
+    {
+        "ItemId": "Purple_equipment4",
+        "Qty": 396
+    },
+    {
+        "ItemId": "Purple_equipment5",
+        "Qty": 288
+    },
+    {
+        "ItemId": "Purple_equipment6",
+        "Qty": 254
+    },
+    {
+        "ItemId": "Purple_Focus_Mat_Bit",
+        "Qty": 4053
+    },
+    {
+        "ItemId": "Purple_Health_Mat_Bit",
+        "Qty": 3799
+    },
+    {
+        "ItemId": "Purple_magic1",
+        "Qty": 510
+    },
+    {
+        "ItemId": "Purple_magic2",
+        "Qty": 452
+    },
+    {
+        "ItemId": "Purple_magic3",
+        "Qty": 472
+    },
+    {
+        "ItemId": "Purple_magic4",
+        "Qty": 234
+    },
+    {
+        "ItemId": "Purple_metal1",
+        "Qty": 396
+    },
+    {
+        "ItemId": "Purple_metal2",
+        "Qty": 352
+    },
+    {
+        "ItemId": "Purple_metal3",
+        "Qty": 353
+    },
+    {
+        "ItemId": "Purple_metal4",
+        "Qty": 440
+    },
+    {
+        "ItemId": "Purple_metal5",
+        "Qty": 218
+    },
+    {
+        "ItemId": "Purple_metal7",
+        "Qty": 210
+    },
+    {
+        "ItemId": "Purple_metal8",
+        "Qty": 32
+    },
+    {
+        "ItemId": "Purple_Mutant_Mat_b2",
+        "Qty": 824
+    },
+    {
+        "ItemId": "Purple_Mutant_Mat_Bit",
+        "Qty": 907
+    },
+    {
+        "ItemId": "Purple_Mutant_Mat_c1",
+        "Qty": 1020
+    },
+    {
+        "ItemId": "Purple_Mutant_Mat_c2",
+        "Qty": 1434
+    },
+    {
+        "ItemId": "Purple_Mutant_Mat_c3",
+        "Qty": 498
+    },
+    {
+        "ItemId": "Purple_Mystic_Mat_b2",
+        "Qty": 1091
+    },
+    {
+        "ItemId": "Purple_Mystic_Mat_Bit",
+        "Qty": 682
+    },
+    {
+        "ItemId": "Purple_Mystic_Mat_c1",
+        "Qty": 772
+    },
+    {
+        "ItemId": "Purple_Mystic_Mat_c2",
+        "Qty": 1117
+    },
+    {
+        "ItemId": "Purple_Mystic_Mat_c3",
+        "Qty": 610
+    },
+    {
+        "ItemId": "Purple_Resist_Mat_Bit",
+        "Qty": 3859
+    },
+    {
+        "ItemId": "Purple_serum1",
+        "Qty": 387
+    },
+    {
+        "ItemId": "Purple_serum2",
+        "Qty": 470
+    },
+    {
+        "ItemId": "Purple_serum3",
+        "Qty": 382
+    },
+    {
+        "ItemId": "Purple_serum4",
+        "Qty": 408
+    },
+    {
+        "ItemId": "Purple_Skill_Mat_b2",
+        "Qty": 1137
+    },
+    {
+        "ItemId": "Purple_Skill_Mat_Bit",
+        "Qty": 249
+    },
+    {
+        "ItemId": "Purple_Skill_Mat_c1",
+        "Qty": 476
+    },
+    {
+        "ItemId": "Purple_Skill_Mat_c2",
+        "Qty": 953
+    },
+    {
+        "ItemId": "Purple_Skill_Mat_c3",
+        "Qty": 624
+    },
+    {
+        "ItemId": "Purple_Tech_Mat_b2",
+        "Qty": 1151
+    },
+    {
+        "ItemId": "Purple_Tech_Mat_Bit",
+        "Qty": 954
+    },
+    {
+        "ItemId": "Purple_Tech_Mat_c1",
+        "Qty": 815
+    },
+    {
+        "ItemId": "Purple_Tech_Mat_c2",
+        "Qty": 1312
+    },
+    {
+        "ItemId": "Purple_Tech_Mat_c3",
+        "Qty": 447
+    },
+    {
+        "ItemId": "T1_NoArmor",
+        "Qty": 585
+    },
+    {
+        "ItemId": "T13_Bio_Armor",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Bio_Damage",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T13_Bio_Focus",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Bio_Health",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Bio_Resist",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Mutant_Armor",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Mutant_Damage",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Mutant_Focus",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Mutant_Health",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Mutant_Resist",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Mystic_Armor",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Mystic_Damage",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Mystic_Focus",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Mystic_Health",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Mystic_Resist",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Skill_Armor",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Skill_Damage",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Skill_Focus",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Skill_Health",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Skill_Resist",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Tech_Armor",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Tech_Damage",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Tech_Focus",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Tech_Health",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T13_Tech_Resist",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T14_Bio_Armor",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Bio_Damage",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Bio_Focus",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Bio_Health",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Bio_Resist",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Mutant_Armor",
+        "Qty": 2
+    },
+    {
+        "ItemId": "T14_Mutant_Damage",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Mutant_Focus",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T14_Mutant_Health",
+        "Qty": 2
+    },
+    {
+        "ItemId": "T14_Mutant_Resist",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T14_Mystic_Armor",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Mystic_Damage",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Mystic_Focus",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Mystic_Health",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Mystic_Resist",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T14_Skill_Armor",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Skill_Damage",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T14_Skill_Focus",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T14_Skill_Health",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Skill_Resist",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T14_Tech_Armor",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T14_Tech_Damage",
+        "Qty": 2
+    },
+    {
+        "ItemId": "T14_Tech_Focus",
+        "Qty": 2
+    },
+    {
+        "ItemId": "T14_Tech_Health",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T14_Tech_Resist",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T15_Bio_Focus",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T15_Bio_Resist",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T15_Mutant_Health",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T15_Mystic_Armor",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T15_Mystic_Resist",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T15_Skill_Armor",
+        "Qty": 0
+    },
+    {
+        "ItemId": "T15_Skill_Damage",
+        "Qty": 3
+    },
+    {
+        "ItemId": "T15_Skill_Resist",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T15_Tech_Damage",
+        "Qty": 1
+    },
+    {
+        "ItemId": "T15_Tech_Focus",
+        "Qty": 1
+    },
+    {
+        "ItemId": "Teal_Armor_Mat_Bit",
+        "Qty": 2727
+    },
+    {
+        "ItemId": "Teal_Basic_Cat_Bit",
+        "Qty": 6523
+    },
+    {
+        "ItemId": "Teal_Bio_Mat_Bit",
+        "Qty": 746
+    },
+    {
+        "ItemId": "Teal_Bio_Mat_c2",
+        "Qty": 612
+    },
+    {
+        "ItemId": "Teal_Bio_Mat_c3",
+        "Qty": 539
+    },
+    {
+        "ItemId": "Teal_Bio_Mat_c5",
+        "Qty": 232
+    },
+    {
+        "ItemId": "Teal_Bio_Mat_c9",
+        "Qty": 206
+    },
+    {
+        "ItemId": "Teal_Damage_Mat_Bit",
+        "Qty": 2461
+    },
+    {
+        "ItemId": "Teal_energy1",
+        "Qty": 24
+    },
+    {
+        "ItemId": "Teal_energy2",
+        "Qty": 32
+    },
+    {
+        "ItemId": "Teal_energy3",
+        "Qty": 40
+    },
+    {
+        "ItemId": "Teal_energy4",
+        "Qty": 54
+    },
+    {
+        "ItemId": "Teal_energy5",
+        "Qty": 36
+    },
+    {
+        "ItemId": "Teal_equipment1",
+        "Qty": 26
+    },
+    {
+        "ItemId": "Teal_equipment2",
+        "Qty": 32
+    },
+    {
+        "ItemId": "Teal_equipment3",
+        "Qty": 37
+    },
+    {
+        "ItemId": "Teal_equipment4",
+        "Qty": 30
+    },
+    {
+        "ItemId": "Teal_equipment5",
+        "Qty": 13
+    },
+    {
+        "ItemId": "Teal_equipment6",
+        "Qty": 46
+    },
+    {
+        "ItemId": "Teal_Focus_Mat_Bit",
+        "Qty": 1251
+    },
+    {
+        "ItemId": "Teal_Health_Mat_Bit",
+        "Qty": 1744
+    },
+    {
+        "ItemId": "Teal_magic1",
+        "Qty": 80
+    },
+    {
+        "ItemId": "Teal_magic2",
+        "Qty": 43
+    },
+    {
+        "ItemId": "Teal_magic3",
+        "Qty": 38
+    },
+    {
+        "ItemId": "Teal_magic4",
+        "Qty": 14
+    },
+    {
+        "ItemId": "Teal_metal1",
+        "Qty": 44
+    },
+    {
+        "ItemId": "Teal_metal2",
+        "Qty": 29
+    },
+    {
+        "ItemId": "Teal_metal3",
+        "Qty": 48
+    },
+    {
+        "ItemId": "Teal_metal4",
+        "Qty": 53
+    },
+    {
+        "ItemId": "Teal_metal5",
+        "Qty": 39
+    },
+    {
+        "ItemId": "Teal_metal6",
+        "Qty": 4
+    },
+    {
+        "ItemId": "Teal_metal7",
+        "Qty": 24
+    },
+    {
+        "ItemId": "Teal_metal8",
+        "Qty": 5
+    },
+    {
+        "ItemId": "Teal_Mutant_Mat_Bit",
+        "Qty": 703
+    },
+    {
+        "ItemId": "Teal_Mutant_Mat_c2",
+        "Qty": 618
+    },
+    {
+        "ItemId": "Teal_Mutant_Mat_c3",
+        "Qty": 528
+    },
+    {
+        "ItemId": "Teal_Mutant_Mat_c5",
+        "Qty": 210
+    },
+    {
+        "ItemId": "Teal_Mutant_Mat_c9",
+        "Qty": 193
+    },
+    {
+        "ItemId": "Teal_Mystic_Mat_Bit",
+        "Qty": 326
+    },
+    {
+        "ItemId": "Teal_Mystic_Mat_c2",
+        "Qty": 200
+    },
+    {
+        "ItemId": "Teal_Mystic_Mat_c3",
+        "Qty": 112
+    },
+    {
+        "ItemId": "Teal_Mystic_Mat_c5",
+        "Qty": 49
+    },
+    {
+        "ItemId": "Teal_Mystic_Mat_c9",
+        "Qty": 86
+    },
+    {
+        "ItemId": "Teal_Resist_Mat_Bit",
+        "Qty": 1782
+    },
+    {
+        "ItemId": "Teal_serum1",
+        "Qty": 43
+    },
+    {
+        "ItemId": "Teal_serum2",
+        "Qty": 25
+    },
+    {
+        "ItemId": "Teal_serum3",
+        "Qty": 30
+    },
+    {
+        "ItemId": "Teal_serum4",
+        "Qty": 50
+    },
+    {
+        "ItemId": "Teal_Skill_Mat_Bit",
+        "Qty": 713
+    },
+    {
+        "ItemId": "Teal_Skill_Mat_c2",
+        "Qty": 574
+    },
+    {
+        "ItemId": "Teal_Skill_Mat_c3",
+        "Qty": 509
+    },
+    {
+        "ItemId": "Teal_Skill_Mat_c5",
+        "Qty": 199
+    },
+    {
+        "ItemId": "Teal_Skill_Mat_c9",
+        "Qty": 186
+    },
+    {
+        "ItemId": "Teal_Tech_Mat_Bit",
+        "Qty": 792
+    },
+    {
+        "ItemId": "Teal_Tech_Mat_c2",
+        "Qty": 613
+    },
+    {
+        "ItemId": "Teal_Tech_Mat_c3",
+        "Qty": 481
+    },
+    {
+        "ItemId": "Teal_Tech_Mat_c5",
+        "Qty": 228
+    },
+    {
+        "ItemId": "Teal_Tech_Mat_c9",
+        "Qty": 185
+    }
+]
