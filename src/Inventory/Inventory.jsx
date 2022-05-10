@@ -7,10 +7,10 @@ const Inventory = () => {
     const characters = useSelector(state => state.characterListReducer)
     const dispatch = useDispatch();
 
-    useEffect(() => {
-        dispatch(getInventoryAction());
-        console.log(characters)
-    }, [])
+    // useEffect(() => {
+    //     dispatch(getInventoryAction());
+    //     console.log(characters)
+    // }, [])
 
     useEffect(() => {
         dispatch(calculateGearDifferenceAction(inventory))

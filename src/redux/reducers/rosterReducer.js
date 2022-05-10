@@ -1,7 +1,7 @@
 import * as types from '../actionTypes';
 
 const initialState = {
-    roster: {}
+    roster: null
 }
 
 export default function(state={...initialState}, action) {

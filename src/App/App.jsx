@@ -7,6 +7,7 @@ import Inventory from '../Inventory/Inventory.jsx';
 import Characters from '../Characters/Characters.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './styles/App.css';
+import JsonForm from '../JsonForm/JsonForm.jsx';
 
 const App = () => {
     const dispatch = useDispatch();
@@ -14,8 +15,9 @@ const App = () => {
     const inventory = useSelector(state => state.inventoryReducer)
     
     useEffect(() => {
-        dispatch(getInventoryAction());
-        dispatch(getRosterAction());        
+        // dispatch(getInventoryAction());
+        // dispatch(getRosterAction()); 
+        console.log(roster, inventory)
     }, [])
 
     // useEffect(() => {
@@ -53,6 +55,14 @@ const App = () => {
                 <div className="col-4">
                     <Inventory />
                 </div>
+            </div>
+            <div>
+                {(roster.roster === null) && (
+                    <JsonForm type="roster" />
+                )}
+                {inventory.myInv === null && (
+                    <JsonForm type="inventory" />
+                )}
             </div>
         </div>
     )

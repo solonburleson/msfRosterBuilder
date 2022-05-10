@@ -1,7 +1,7 @@
 import * as types from '../actionTypes';
 
 const initialState = {
-    myInv: {},
+    myInv: null,
     gearNeeded: {},
     gearNeededv2: [],
     gearDiff: {},
