@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { useDispatch } from 'react-redux';
 import {handleJSONSubmitAction} from '../redux/actions/jsonSubmitActions'
+import './styles/JsonForm.css';
 
 const JsonForm = ({type}) => {
     const dispatch = useDispatch();
@@ -17,9 +18,8 @@ const JsonForm = ({type}) => {
     
     return (
         <form onSubmit={handleSubmit}>
-            <label>{`${type.charAt(0).toUpperCase()}${type.slice(1)}`} JSON
+            <h3><label>{`${type.charAt(0).toUpperCase()}${type.slice(1)}`} JSON</label></h3>
             <textarea value={json} onChange={handleChange} />
-            </label>
             <input type="submit" value="Submit" />
         </form>
     )

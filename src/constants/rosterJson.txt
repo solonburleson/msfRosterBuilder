@@ -1,0 +1,814 @@
+{
+    "AdamWarlock": {
+        "level": 80,
+        "tier": 15
+    },
+    "AgathaHarkness": {
+        "level": 85,
+        "tier": 16
+    },
+    "AimControl_Infect": {
+        "level": 42,
+        "tier": 8
+    },
+    "AimDmg_Offense": {
+        "level": 65,
+        "tier": 12
+    },
+    "AimDmg_Speed": {
+        "level": 65,
+        "tier": 12
+    },
+    "AimSupport_Heal": {
+        "level": 42,
+        "tier": 8
+    },
+    "AimTank_Taunt": {
+        "level": 65,
+        "tier": 12
+    },
+    "AmericaChavez": {
+        "level": 67,
+        "tier": 12
+    },
+    "AntiVenom": {
+        "level": 85,
+        "tier": 15
+    },
+    "AntMan": {
+        "level": 65,
+        "tier": 12
+    },
+    "BaronMordo": {
+        "level": 65,
+        "tier": 12
+    },
+    "Beast": {
+        "level": 85,
+        "tier": 15
+    },
+    "Bishop": {
+        "level": 85,
+        "tier": 15
+    },
+    "BlackBolt": {
+        "level": 85,
+        "tier": 16
+    },
+    "BlackPanther": {
+        "level": 65,
+        "tier": 12
+    },
+    "BlackWidow": {
+        "level": 65,
+        "tier": 12
+    },
+    "Blob": {
+        "level": 65,
+        "tier": 12
+    },
+    "Bullseye": {
+        "level": 60,
+        "tier": 11
+    },
+    "Cable": {
+        "level": 70,
+        "tier": 12
+    },
+    "CaptainAmerica": {
+        "level": 65,
+        "tier": 12
+    },
+    "CaptainMarvel": {
+        "level": 80,
+        "tier": 15
+    },
+    "Carnage": {
+        "level": 85,
+        "tier": 15
+    },
+    "Cloak": {
+        "level": 85,
+        "tier": 16
+    },
+    "ColleenWing": {
+        "level": 75,
+        "tier": 14
+    },
+    "Colossus": {
+        "level": 75,
+        "tier": 14
+    },
+    "CorvusGlaive": {
+        "level": 75,
+        "tier": 14
+    },
+    "Coulson": {
+        "level": 60,
+        "tier": 11
+    },
+    "Crossbones": {
+        "level": 65,
+        "tier": 12
+    },
+    "Crystal": {
+        "level": 65,
+        "tier": 12
+    },
+    "CullObsidian": {
+        "level": 75,
+        "tier": 14
+    },
+    "Cyclops": {
+        "level": 70,
+        "tier": 13
+    },
+    "Dagger": {
+        "level": 85,
+        "tier": 15
+    },
+    "Daredevil": {
+        "level": 75,
+        "tier": 14
+    },
+    "Dazzler": {
+        "level": 0,
+        "tier": 0
+    },
+    "Deadpool": {
+        "level": 70,
+        "tier": 13
+    },
+    "Deathpool": {
+        "level": 85,
+        "tier": 15
+    },
+    "DoctorOctopus": {
+        "level": 85,
+        "tier": 16
+    },
+    "DoctorStrange": {
+        "level": 65,
+        "tier": 12
+    },
+    "DoctorVoodoo": {
+        "level": 80,
+        "tier": 15
+    },
+    "Domino": {
+        "level": 70,
+        "tier": 13
+    },
+    "Doom": {
+        "level": 85,
+        "tier": 16
+    },
+    "Dormammu": {
+        "level": 85,
+        "tier": 16
+    },
+    "Drax": {
+        "level": 60,
+        "tier": 11
+    },
+    "EbonyMaw": {
+        "level": 80,
+        "tier": 15
+    },
+    "Echo": {
+        "level": 75,
+        "tier": 14
+    },
+    "Electro": {
+        "level": 65,
+        "tier": 12
+    },
+    "Elektra": {
+        "level": 65,
+        "tier": 12
+    },
+    "ElsaBloodstone": {
+        "level": 80,
+        "tier": 15
+    },
+    "EmmaFrost": {
+        "level": 80,
+        "tier": 15
+    },
+    "Falcon": {
+        "level": 75,
+        "tier": 14
+    },
+    "Fantomex": {
+        "level": 0,
+        "tier": 0
+    },
+    "Gambit": {
+        "level": 0,
+        "tier": 0
+    },
+    "Gamora": {
+        "level": 80,
+        "tier": 15
+    },
+    "Ghost": {
+        "level": 80,
+        "tier": 15
+    },
+    "GhostRider": {
+        "level": 80,
+        "tier": 15
+    },
+    "GhostSpider": {
+        "level": 85,
+        "tier": 16
+    },
+    "Graviton": {
+        "level": 65,
+        "tier": 12
+    },
+    "Groot": {
+        "level": 70,
+        "tier": 13
+    },
+    "HandControl_HealBlock": {
+        "level": 60,
+        "tier": 11
+    },
+    "HandDmg_Bonus": {
+        "level": 42,
+        "tier": 8
+    },
+    "HandDmg_Unbuff": {
+        "level": 42,
+        "tier": 8
+    },
+    "HandSupport_Heal": {
+        "level": 42,
+        "tier": 8
+    },
+    "HandTank_Stealth": {
+        "level": 60,
+        "tier": 11
+    },
+    "Hawkeye": {
+        "level": 65,
+        "tier": 12
+    },
+    "Heimdall": {
+        "level": 60,
+        "tier": 11
+    },
+    "Hela": {
+        "level": 80,
+        "tier": 15
+    },
+    "Hulk": {
+        "level": 65,
+        "tier": 12
+    },
+    "HumanTorch": {
+        "level": 65,
+        "tier": 12
+    },
+    "HydraDmg_AoE": {
+        "level": 66,
+        "tier": 12
+    },
+    "HydraDmg_Buff": {
+        "level": 54,
+        "tier": 10
+    },
+    "HydraDmg_Single": {
+        "level": 60,
+        "tier": 11
+    },
+    "HydraSupport_Heal": {
+        "level": 54,
+        "tier": 10
+    },
+    "HydraTank_Taunt": {
+        "level": 54,
+        "tier": 10
+    },
+    "Iceman": {
+        "level": 85,
+        "tier": 15
+    },
+    "Ikaris": {
+        "level": 85,
+        "tier": 16
+    },
+    "InvisibleWoman": {
+        "level": 85,
+        "tier": 16
+    },
+    "IronFist": {
+        "level": 71,
+        "tier": 13
+    },
+    "Ironheart": {
+        "level": 65,
+        "tier": 12
+    },
+    "IronMan": {
+        "level": 65,
+        "tier": 12
+    },
+    "JessicaJones": {
+        "level": 75,
+        "tier": 14
+    },
+    "Jubilee": {
+        "level": 85,
+        "tier": 16
+    },
+    "Juggernaut": {
+        "level": 65,
+        "tier": 12
+    },
+    "Karnak": {
+        "level": 65,
+        "tier": 12
+    },
+    "KateBishop": {
+        "level": 80,
+        "tier": 15
+    },
+    "Killmonger": {
+        "level": 65,
+        "tier": 12
+    },
+    "Kingpin": {
+        "level": 60,
+        "tier": 11
+    },
+    "KittyPryde": {
+        "level": 85,
+        "tier": 15
+    },
+    "Korath": {
+        "level": 60,
+        "tier": 10
+    },
+    "KreeControl_Assist": {
+        "level": 60,
+        "tier": 11
+    },
+    "KreeDmg_Offense": {
+        "level": 60,
+        "tier": 10
+    },
+    "KreeDmg_Speed": {
+        "level": 60,
+        "tier": 11
+    },
+    "KreeSupport_HoT": {
+        "level": 60,
+        "tier": 10
+    },
+    "KreeTank_Counter": {
+        "level": 60,
+        "tier": 11
+    },
+    "LadyDeathstrike": {
+        "level": 85,
+        "tier": 16
+    },
+    "Loki": {
+        "level": 65,
+        "tier": 12
+    },
+    "Longshot": {
+        "level": 80,
+        "tier": 15
+    },
+    "LukeCage": {
+        "level": 75,
+        "tier": 14
+    },
+    "MadelynePryor": {
+        "level": 80,
+        "tier": 15
+    },
+    "Magik": {
+        "level": 75,
+        "tier": 14
+    },
+    "Magneto": {
+        "level": 70,
+        "tier": 13
+    },
+    "Mantis": {
+        "level": 65,
+        "tier": 12
+    },
+    "MariaHill": {
+        "level": 85,
+        "tier": 16
+    },
+    "MBaku": {
+        "level": 65,
+        "tier": 12
+    },
+    "MercDmg_General": {
+        "level": 65,
+        "tier": 12
+    },
+    "MercDmg_Single": {
+        "level": 48,
+        "tier": 9
+    },
+    "MercSupport_Buffs": {
+        "level": 65,
+        "tier": 12
+    },
+    "MercTank_Debuff": {
+        "level": 65,
+        "tier": 12
+    },
+    "Minerva": {
+        "level": 80,
+        "tier": 15
+    },
+    "MistyKnight": {
+        "level": 75,
+        "tier": 14
+    },
+    "Moondragon": {
+        "level": 80,
+        "tier": 15
+    },
+    "MoonKnight": {
+        "level": 75,
+        "tier": 14
+    },
+    "Morbius": {
+        "level": 80,
+        "tier": 15
+    },
+    "MorganLeFay": {
+        "level": 70,
+        "tier": 13
+    },
+    "MrFantastic": {
+        "level": 65,
+        "tier": 12
+    },
+    "MrSinister": {
+        "level": 80,
+        "tier": 15
+    },
+    "MsMarvel": {
+        "level": 70,
+        "tier": 13
+    },
+    "MultipleMan": {
+        "level": 75,
+        "tier": 14
+    },
+    "Mysterio": {
+        "level": 65,
+        "tier": 12
+    },
+    "Mystique": {
+        "level": 80,
+        "tier": 15
+    },
+    "Namor": {
+        "level": 65,
+        "tier": 12
+    },
+    "Nebula": {
+        "level": 80,
+        "tier": 15
+    },
+    "Negasonic": {
+        "level": 70,
+        "tier": 13
+    },
+    "NickFury": {
+        "level": 75,
+        "tier": 14
+    },
+    "NicoMinoru": {
+        "level": 0,
+        "tier": 0
+    },
+    "NightNurse": {
+        "level": 80,
+        "tier": 15
+    },
+    "Nobu": {
+        "level": 60,
+        "tier": 11
+    },
+    "Okoye": {
+        "level": 65,
+        "tier": 12
+    },
+    "OmegaRed": {
+        "level": 85,
+        "tier": 16
+    },
+    "Phoenix": {
+        "level": 85,
+        "tier": 16
+    },
+    "PhylaVell": {
+        "level": 80,
+        "tier": 15
+    },
+    "Polaris": {
+        "level": 75,
+        "tier": 14
+    },
+    "ProximaMidnight": {
+        "level": 80,
+        "tier": 15
+    },
+    "Psylocke": {
+        "level": 60,
+        "tier": 11
+    },
+    "Punisher": {
+        "level": 80,
+        "tier": 15
+    },
+    "Pyro": {
+        "level": 65,
+        "tier": 12
+    },
+    "Quake": {
+        "level": 65,
+        "tier": 12
+    },
+    "RavagerDmg_AoE": {
+        "level": 70,
+        "tier": 13
+    },
+    "RavagerSupport_Heal": {
+        "level": 85,
+        "tier": 16
+    },
+    "RavagerTank_Taunt": {
+        "level": 71,
+        "tier": 13
+    },
+    "RedGuardian": {
+        "level": 80,
+        "tier": 15
+    },
+    "RedSkull": {
+        "level": 65,
+        "tier": 12
+    },
+    "Rescue": {
+        "level": 65,
+        "tier": 12
+    },
+    "Rhino": {
+        "level": 65,
+        "tier": 12
+    },
+    "RocketRaccoon": {
+        "level": 80,
+        "tier": 15
+    },
+    "Ronan": {
+        "level": 60,
+        "tier": 11
+    },
+    "Sabretooth": {
+        "level": 79,
+        "tier": 15
+    },
+    "SamWilson": {
+        "level": 85,
+        "tier": 16
+    },
+    "ScarletSpider": {
+        "level": 85,
+        "tier": 16
+    },
+    "ScarletWitch": {
+        "level": 67,
+        "tier": 12
+    },
+    "ScientistSupreme": {
+        "level": 75,
+        "tier": 14
+    },
+    "Scream": {
+        "level": 85,
+        "tier": 15
+    },
+    "Sersi": {
+        "level": 85,
+        "tier": 16
+    },
+    "ShangChi": {
+        "level": 85,
+        "tier": 16
+    },
+    "SharonCarter": {
+        "level": 85,
+        "tier": 16
+    },
+    "Shatterstar": {
+        "level": 80,
+        "tier": 15
+    },
+    "SheHulk": {
+        "level": 60,
+        "tier": 11
+    },
+    "ShieldDmg_AoE": {
+        "level": 65,
+        "tier": 12
+    },
+    "ShieldDmg_Defense": {
+        "level": 60,
+        "tier": 10
+    },
+    "ShieldSupport_Heal": {
+        "level": 65,
+        "tier": 12
+    },
+    "ShieldSupport_Stealth": {
+        "level": 65,
+        "tier": 12
+    },
+    "ShieldTank_Stun": {
+        "level": 70,
+        "tier": 13
+    },
+    "Shocker": {
+        "level": 54,
+        "tier": 10
+    },
+    "Shuri": {
+        "level": 80,
+        "tier": 15
+    },
+    "Sif": {
+        "level": 65,
+        "tier": 12
+    },
+    "SilverSamurai": {
+        "level": 75,
+        "tier": 14
+    },
+    "SilverSurfer": {
+        "level": 85,
+        "tier": 15
+    },
+    "SpiderMan": {
+        "level": 80,
+        "tier": 15
+    },
+    "SpiderPunk": {
+        "level": 85,
+        "tier": 16
+    },
+    "SpiderWoman": {
+        "level": 80,
+        "tier": 15
+    },
+    "SquirrelGirl": {
+        "level": 75,
+        "tier": 14
+    },
+    "StarLord": {
+        "level": 80,
+        "tier": 15
+    },
+    "Stature": {
+        "level": 65,
+        "tier": 12
+    },
+    "Storm": {
+        "level": 65,
+        "tier": 12
+    },
+    "StrangeSupreme": {
+        "level": 85,
+        "tier": 15
+    },
+    "Stryfe": {
+        "level": 80,
+        "tier": 15
+    },
+    "Swarm": {
+        "level": 65,
+        "tier": 12
+    },
+    "Sybil": {
+        "level": 85,
+        "tier": 16
+    },
+    "SymbioteSpiderMan": {
+        "level": 85,
+        "tier": 15
+    },
+    "Taskmaster": {
+        "level": 75,
+        "tier": 14
+    },
+    "TChalla": {
+        "level": 85,
+        "tier": 16
+    },
+    "Thanos": {
+        "level": 80,
+        "tier": 15
+    },
+    "Thing": {
+        "level": 65,
+        "tier": 12
+    },
+    "Thor": {
+        "level": 60,
+        "tier": 11
+    },
+    "Toad": {
+        "level": 70,
+        "tier": 13
+    },
+    "UltGreenGoblin": {
+        "level": 65,
+        "tier": 12
+    },
+    "Ultimus": {
+        "level": 48,
+        "tier": 9
+    },
+    "Ultron": {
+        "level": 75,
+        "tier": 14
+    },
+    "UltSpiderMan": {
+        "level": 83,
+        "tier": 15
+    },
+    "Venom": {
+        "level": 81,
+        "tier": 15
+    },
+    "Vision": {
+        "level": 60,
+        "tier": 11
+    },
+    "Vulture": {
+        "level": 65,
+        "tier": 12
+    },
+    "WarMachine": {
+        "level": 65,
+        "tier": 12
+    },
+    "Wasp": {
+        "level": 65,
+        "tier": 12
+    },
+    "WhiteTiger": {
+        "level": 75,
+        "tier": 14
+    },
+    "WinterSoldier": {
+        "level": 70,
+        "tier": 13
+    },
+    "Wolverine": {
+        "level": 85,
+        "tier": 16
+    },
+    "Wong": {
+        "level": 85,
+        "tier": 16
+    },
+    "X23": {
+        "level": 71,
+        "tier": 13
+    },
+    "Yelena": {
+        "level": 65,
+        "tier": 12
+    },
+    "Yellowjacket": {
+        "level": 65,
+        "tier": 12
+    },
+    "Yondu": {
+        "level": 70,
+        "tier": 13
+    },
+    "YoYo": {
+        "level": 75,
+        "tier": 14
+    },
+    "Zemo": {
+        "level": 80,
+        "tier": 15
+    }
+}
