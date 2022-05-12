@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { getInventoryAction, calculateGearDifferenceAction, calculateGearDifferenceActionV2 } from '../redux/actions/inventoryActions';
+import gearTranslate from '../constants/gearTranslate';
 
 const Inventory = () => {
     const inventory = useSelector(state => state.inventoryReducer);
@@ -30,7 +31,7 @@ const Inventory = () => {
             <h2>Inventory</h2>
             <ol>
                 {inventory.gearDiffv2 && Object.keys(inventory.gearDiffv2).map((key) => {
-                    return <p key={key}>{key} {inventory.gearDiffv2[key]}</p>
+                    return <p key={key}>{gearTranslate[key].name} {inventory.gearDiffv2[key]}</p>
                 })}
             </ol>
         </div>

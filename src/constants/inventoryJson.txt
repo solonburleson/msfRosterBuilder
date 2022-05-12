@@ -165,15 +165,15 @@
     },
     {
         "ItemId": "Orange_Armor_Mat_Bit",
-        "Qty": 9470
+        "Qty": 9390
     },
     {
         "ItemId": "Orange_Basic_Cat_Bit",
-        "Qty": 8128
+        "Qty": 8569
     },
     {
         "ItemId": "Orange_Bio_Mat_Bit",
-        "Qty": 2846
+        "Qty": 3005
     },
     {
         "ItemId": "Orange_Bio_Mat_c1",
@@ -181,31 +181,31 @@
     },
     {
         "ItemId": "Orange_Bio_Mat_c2",
-        "Qty": 1657
+        "Qty": 1717
     },
     {
         "ItemId": "Orange_Bio_Mat_c3",
-        "Qty": 2086
+        "Qty": 2108
     },
     {
         "ItemId": "Orange_Bio_Mat_c5",
-        "Qty": 196
+        "Qty": 190
     },
     {
         "ItemId": "Orange_Bio_Mat_c6",
-        "Qty": 355
+        "Qty": 415
     },
     {
         "ItemId": "Orange_Bio_Mat_c8",
-        "Qty": 222
+        "Qty": 269
     },
     {
         "ItemId": "Orange_Bio_Mat_c9",
-        "Qty": 106
+        "Qty": 97
     },
     {
         "ItemId": "Orange_Damage_Mat_Bit",
-        "Qty": 1062
+        "Qty": 1202
     },
     {
         "ItemId": "Orange_energy1",
@@ -213,11 +213,11 @@
     },
     {
         "ItemId": "Orange_energy2",
-        "Qty": 190
+        "Qty": 189
     },
     {
         "ItemId": "Orange_energy3",
-        "Qty": 253
+        "Qty": 252
     },
     {
         "ItemId": "Orange_energy4",
@@ -225,11 +225,11 @@
     },
     {
         "ItemId": "Orange_energy5",
-        "Qty": 144
+        "Qty": 146
     },
     {
         "ItemId": "Orange_equipment1",
-        "Qty": 81
+        "Qty": 106
     },
     {
         "ItemId": "Orange_equipment2",
@@ -237,15 +237,15 @@
     },
     {
         "ItemId": "Orange_equipment3",
-        "Qty": 332
+        "Qty": 331
     },
     {
         "ItemId": "Orange_equipment4",
-        "Qty": 243
+        "Qty": 242
     },
     {
         "ItemId": "Orange_equipment5",
-        "Qty": 165
+        "Qty": 164
     },
     {
         "ItemId": "Orange_equipment6",
@@ -253,15 +253,15 @@
     },
     {
         "ItemId": "Orange_Focus_Mat_Bit",
-        "Qty": 1775
+        "Qty": 2040
     },
     {
         "ItemId": "Orange_Health_Mat_Bit",
-        "Qty": 1618
+        "Qty": 1776
     },
     {
         "ItemId": "Orange_magic1",
-        "Qty": 109
+        "Qty": 88
     },
     {
         "ItemId": "Orange_magic2",
@@ -281,11 +281,11 @@
     },
     {
         "ItemId": "Orange_metal2",
-        "Qty": 134
+        "Qty": 133
     },
     {
         "ItemId": "Orange_metal3",
-        "Qty": 187
+        "Qty": 180
     },
     {
         "ItemId": "Orange_metal4",
@@ -301,7 +301,7 @@
     },
     {
         "ItemId": "Orange_metal7",
-        "Qty": 219
+        "Qty": 214
     },
     {
         "ItemId": "Orange_metal8",
@@ -309,7 +309,7 @@
     },
     {
         "ItemId": "Orange_Mutant_Mat_Bit",
-        "Qty": 3291
+        "Qty": 3259
     },
     {
         "ItemId": "Orange_Mutant_Mat_c1",
@@ -317,11 +317,11 @@
     },
     {
         "ItemId": "Orange_Mutant_Mat_c2",
-        "Qty": 1905
+        "Qty": 1888
     },
     {
         "ItemId": "Orange_Mutant_Mat_c3",
-        "Qty": 1747
+        "Qty": 1725
     },
     {
         "ItemId": "Orange_Mutant_Mat_c5",
@@ -329,11 +329,11 @@
     },
     {
         "ItemId": "Orange_Mutant_Mat_c6",
-        "Qty": 458
+        "Qty": 438
     },
     {
         "ItemId": "Orange_Mutant_Mat_c8",
-        "Qty": 417
+        "Qty": 400
     },
     {
         "ItemId": "Orange_Mutant_Mat_c9",
@@ -341,7 +341,7 @@
     },
     {
         "ItemId": "Orange_Mystic_Mat_Bit",
-        "Qty": 714
+        "Qty": 750
     },
     {
         "ItemId": "Orange_Mystic_Mat_c1",
@@ -349,31 +349,31 @@
     },
     {
         "ItemId": "Orange_Mystic_Mat_c2",
-        "Qty": 1024
+        "Qty": 1043
     },
     {
         "ItemId": "Orange_Mystic_Mat_c3",
-        "Qty": 1362
+        "Qty": 1408
     },
     {
         "ItemId": "Orange_Mystic_Mat_c5",
-        "Qty": 204
+        "Qty": 200
     },
     {
         "ItemId": "Orange_Mystic_Mat_c6",
-        "Qty": 202
+        "Qty": 178
     },
     {
         "ItemId": "Orange_Mystic_Mat_c8",
-        "Qty": 220
+        "Qty": 199
     },
     {
         "ItemId": "Orange_Mystic_Mat_c9",
-        "Qty": 188
+        "Qty": 178
     },
     {
         "ItemId": "Orange_Resist_Mat_Bit",
-        "Qty": 4791
+        "Qty": 4983
     },
     {
         "ItemId": "Orange_serum1",
@@ -385,27 +385,27 @@
     },
     {
         "ItemId": "Orange_serum3",
-        "Qty": 125
+        "Qty": 124
     },
     {
         "ItemId": "Orange_serum4",
-        "Qty": 310
+        "Qty": 300
     },
     {
         "ItemId": "Orange_Skill_Mat_Bit",
-        "Qty": 4173
+        "Qty": 4201
     },
     {
         "ItemId": "Orange_Skill_Mat_c1",
-        "Qty": 364
+        "Qty": 363
     },
     {
         "ItemId": "Orange_Skill_Mat_c2",
-        "Qty": 2685
+        "Qty": 2683
     },
     {
         "ItemId": "Orange_Skill_Mat_c3",
-        "Qty": 2889
+        "Qty": 2874
     },
     {
         "ItemId": "Orange_Skill_Mat_c5",
@@ -413,19 +413,19 @@
     },
     {
         "ItemId": "Orange_Skill_Mat_c6",
-        "Qty": 383
+        "Qty": 365
     },
     {
         "ItemId": "Orange_Skill_Mat_c8",
-        "Qty": 385
+        "Qty": 370
     },
     {
         "ItemId": "Orange_Skill_Mat_c9",
-        "Qty": 410
+        "Qty": 406
     },
     {
         "ItemId": "Orange_Tech_Mat_Bit",
-        "Qty": 3644
+        "Qty": 3618
     },
     {
         "ItemId": "Orange_Tech_Mat_c1",
@@ -433,27 +433,27 @@
     },
     {
         "ItemId": "Orange_Tech_Mat_c2",
-        "Qty": 2930
+        "Qty": 2908
     },
     {
         "ItemId": "Orange_Tech_Mat_c3",
-        "Qty": 2799
+        "Qty": 2788
     },
     {
         "ItemId": "Orange_Tech_Mat_c5",
-        "Qty": 448
+        "Qty": 437
     },
     {
         "ItemId": "Orange_Tech_Mat_c6",
-        "Qty": 430
+        "Qty": 417
     },
     {
         "ItemId": "Orange_Tech_Mat_c8",
-        "Qty": 503
+        "Qty": 468
     },
     {
         "ItemId": "Orange_Tech_Mat_c9",
-        "Qty": 346
+        "Qty": 345
     },
     {
         "ItemId": "Purple_Armor_Mat_Bit",
@@ -933,35 +933,35 @@
     },
     {
         "ItemId": "Teal_Armor_Mat_Bit",
-        "Qty": 2793
+        "Qty": 2727
     },
     {
         "ItemId": "Teal_Basic_Cat_Bit",
-        "Qty": 6620
+        "Qty": 6523
     },
     {
         "ItemId": "Teal_Bio_Mat_Bit",
-        "Qty": 770
+        "Qty": 746
     },
     {
         "ItemId": "Teal_Bio_Mat_c2",
-        "Qty": 629
+        "Qty": 612
     },
     {
         "ItemId": "Teal_Bio_Mat_c3",
-        "Qty": 549
+        "Qty": 539
     },
     {
         "ItemId": "Teal_Bio_Mat_c5",
-        "Qty": 238
+        "Qty": 232
     },
     {
         "ItemId": "Teal_Bio_Mat_c9",
-        "Qty": 207
+        "Qty": 206
     },
     {
         "ItemId": "Teal_Damage_Mat_Bit",
-        "Qty": 2497
+        "Qty": 2461
     },
     {
         "ItemId": "Teal_energy1",
@@ -977,11 +977,11 @@
     },
     {
         "ItemId": "Teal_energy4",
-        "Qty": 55
+        "Qty": 54
     },
     {
         "ItemId": "Teal_energy5",
-        "Qty": 40
+        "Qty": 36
     },
     {
         "ItemId": "Teal_equipment1",
@@ -997,7 +997,7 @@
     },
     {
         "ItemId": "Teal_equipment4",
-        "Qty": 32
+        "Qty": 30
     },
     {
         "ItemId": "Teal_equipment5",
@@ -1009,11 +1009,11 @@
     },
     {
         "ItemId": "Teal_Focus_Mat_Bit",
-        "Qty": 1285
+        "Qty": 1251
     },
     {
         "ItemId": "Teal_Health_Mat_Bit",
-        "Qty": 1809
+        "Qty": 1744
     },
     {
         "ItemId": "Teal_magic1",
@@ -1021,7 +1021,7 @@
     },
     {
         "ItemId": "Teal_magic2",
-        "Qty": 45
+        "Qty": 43
     },
     {
         "ItemId": "Teal_magic3",
@@ -1033,7 +1033,7 @@
     },
     {
         "ItemId": "Teal_metal1",
-        "Qty": 46
+        "Qty": 44
     },
     {
         "ItemId": "Teal_metal2",
@@ -1045,7 +1045,7 @@
     },
     {
         "ItemId": "Teal_metal4",
-        "Qty": 54
+        "Qty": 53
     },
     {
         "ItemId": "Teal_metal5",
@@ -1053,7 +1053,7 @@
     },
     {
         "ItemId": "Teal_metal6",
-        "Qty": 6
+        "Qty": 4
     },
     {
         "ItemId": "Teal_metal7",
@@ -1065,47 +1065,47 @@
     },
     {
         "ItemId": "Teal_Mutant_Mat_Bit",
-        "Qty": 745
+        "Qty": 703
     },
     {
         "ItemId": "Teal_Mutant_Mat_c2",
-        "Qty": 622
+        "Qty": 618
     },
     {
         "ItemId": "Teal_Mutant_Mat_c3",
-        "Qty": 550
+        "Qty": 528
     },
     {
         "ItemId": "Teal_Mutant_Mat_c5",
-        "Qty": 214
+        "Qty": 210
     },
     {
         "ItemId": "Teal_Mutant_Mat_c9",
-        "Qty": 194
+        "Qty": 193
     },
     {
         "ItemId": "Teal_Mystic_Mat_Bit",
-        "Qty": 342
+        "Qty": 326
     },
     {
         "ItemId": "Teal_Mystic_Mat_c2",
-        "Qty": 206
+        "Qty": 200
     },
     {
         "ItemId": "Teal_Mystic_Mat_c3",
-        "Qty": 120
+        "Qty": 112
     },
     {
         "ItemId": "Teal_Mystic_Mat_c5",
-        "Qty": 70
+        "Qty": 49
     },
     {
         "ItemId": "Teal_Mystic_Mat_c9",
-        "Qty": 88
+        "Qty": 86
     },
     {
         "ItemId": "Teal_Resist_Mat_Bit",
-        "Qty": 1843
+        "Qty": 1782
     },
     {
         "ItemId": "Teal_serum1",
@@ -1113,7 +1113,7 @@
     },
     {
         "ItemId": "Teal_serum2",
-        "Qty": 26
+        "Qty": 25
     },
     {
         "ItemId": "Teal_serum3",
@@ -1125,15 +1125,15 @@
     },
     {
         "ItemId": "Teal_Skill_Mat_Bit",
-        "Qty": 727
+        "Qty": 713
     },
     {
         "ItemId": "Teal_Skill_Mat_c2",
-        "Qty": 578
+        "Qty": 574
     },
     {
         "ItemId": "Teal_Skill_Mat_c3",
-        "Qty": 527
+        "Qty": 509
     },
     {
         "ItemId": "Teal_Skill_Mat_c5",
@@ -1141,26 +1141,26 @@
     },
     {
         "ItemId": "Teal_Skill_Mat_c9",
-        "Qty": 190
+        "Qty": 186
     },
     {
         "ItemId": "Teal_Tech_Mat_Bit",
-        "Qty": 804
+        "Qty": 792
     },
     {
         "ItemId": "Teal_Tech_Mat_c2",
-        "Qty": 618
+        "Qty": 613
     },
     {
         "ItemId": "Teal_Tech_Mat_c3",
-        "Qty": 483
+        "Qty": 481
     },
     {
         "ItemId": "Teal_Tech_Mat_c5",
-        "Qty": 231
+        "Qty": 228
     },
     {
         "ItemId": "Teal_Tech_Mat_c9",
-        "Qty": 188
+        "Qty": 185
     }
 ]
