@@ -31,7 +31,7 @@ const Inventory = () => {
             <h2>Inventory</h2>
             <ol>
                 {inventory.gearDiffv2 && Object.keys(inventory.gearDiffv2).map((key) => {
-                    return <p key={key}>{gearTranslate[key].name} {inventory.gearDiffv2[key]}</p>
+                    return <p key={key}><img src={gearTranslate[key].url} width="35" height="35" />{gearTranslate[key].name} {inventory.gearDiffv2[key]}</p>
                 })}
             </ol>
         </div>
